@@ -8,14 +8,11 @@ public:
        if(total_sum<target)return 0;
        while(r<n){
         sum+=nums[r];
-        while(sum>target){
-            sum-=nums[l];
+        while(sum>=target){
             len=min(len,r-l+1);
+            sum-=nums[l];
              l++;
         }
-        if(sum==target){
-        len=min(len,r-l+1);
-       }
         r++;
        }
        return len;
