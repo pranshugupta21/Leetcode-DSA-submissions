@@ -12,7 +12,7 @@ public:
             }
         }
         bool ascend=true;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){               // check array is ascending sorted
             if(nums[(zero_idx+i)%n]!=i){
                 ascend=false;
                 break;
@@ -23,7 +23,7 @@ public:
             return min(zero_idx,2+n-zero_idx);
         }
         bool decend=true;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){                  // check array is decending sorted
             if(nums[(zero_idx+i)%n]!=(n-i)%n){
                 decend=false;
                 break;
@@ -32,6 +32,6 @@ public:
         if(decend){
             return min((1+(zero_idx+1)%n),n-zero_idx);
         }
-        return -1;
+        return -1;                        // if it is neither ascending nor descending
     }
 };
