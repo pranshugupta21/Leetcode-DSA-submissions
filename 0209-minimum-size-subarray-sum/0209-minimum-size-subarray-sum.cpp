@@ -10,7 +10,6 @@ public:
         sum+=nums[r];
         while(sum>target){
             sum-=nums[l];
-           
             len=min(len,r-l+1);
              l++;
         }
