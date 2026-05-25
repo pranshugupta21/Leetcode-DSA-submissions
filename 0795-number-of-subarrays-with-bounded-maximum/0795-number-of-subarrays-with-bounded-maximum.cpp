@@ -13,7 +13,7 @@ public:
               c+=valid_len;
              }
              else{
-                c+=valid_len;
+                c+=valid_len;  // the smallest element contribute to previous valid length
              }
            r++;
         }
