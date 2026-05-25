@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Prefix Sum
 |  |
