@@ -7,9 +7,8 @@ public:
           for(int r=0;r<n;r++){
 
           if(mp.find(nums[r])!=mp.end()){
-          if(mp[nums[r]]<r){
             len=min(len,r-mp[nums[r]]+1);
-          }}
+          }
           
           mp[nums[r]]=r;
           
