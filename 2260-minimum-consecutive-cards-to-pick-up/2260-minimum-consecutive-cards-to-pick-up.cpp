@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int minimumCardPickup(vector<int>& nums) {
-        int l=0,n=nums.size();
-        unordered_map<int,int>mp;
+    int minimumCardPickup(vector<int>& cards) {
+        int l=0,n=cards.size();
+        vector<int>last_seen(100001,-1);
         int len=INT_MAX;
           for(int r=0;r<n;r++){
-
-          if(mp.find(nums[r])!=mp.end()){
-            len=min(len,r-mp[nums[r]]+1);
-          }
-          
-          mp[nums[r]]=r;
-          
+           if(last_seen[cards[r]]!=-1){
+            len=min(len,r-last_seen[cards[r]]+1);
+           }
+           last_seen[cards[r]]=r;
         }
         return len==INT_MAX? -1:len;
     }
