@@ -10,7 +10,7 @@ public:
             low=mid+1;
             }
             else{
-                ans=min(ans,nums[mid]);  //
+                ans=min(ans,nums[mid]);  //min for right half
                 high=mid-1;
             }
         }
