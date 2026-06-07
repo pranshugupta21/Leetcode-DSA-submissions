@@ -7,11 +7,11 @@ public:
         while(low<=high){
             int mid=low+(high-low)/2;
             if(mid==n-1||nums[mid]>nums[mid+1]){
-                ans=mid;
+                ans=mid;// on decreasing curve so peak will be on left bound 
                 high=mid-1;
             }
             else{
-                low=mid+1;
+                low=mid+1;   // i am on increasing curve so peak will be on right
             }
         }
         return ans;
