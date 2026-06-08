@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
+| [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
