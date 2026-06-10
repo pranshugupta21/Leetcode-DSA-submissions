@@ -10,7 +10,7 @@ class Solution {
     }
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
-        int low=0,high=*max_element(piles.begin(),piles.end()),ans=-1;
+        int low=1,high=*max_element(piles.begin(),piles.end()),ans=-1;// minimum banana can koko eat is 1 & maximum is max_element
         while(low<=high){
          long long mid=low+(high-low)/2;
           if(check(piles,h,mid)){
