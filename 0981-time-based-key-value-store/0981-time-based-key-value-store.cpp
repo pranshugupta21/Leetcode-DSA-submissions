@@ -12,8 +12,8 @@ public:
     
     string get(string key, int timestamp) {
         if(mp.find(key)==mp.end()) return "";
-        auto &temp=mp[key];
-       // sort(temp.begin(),temp.end());
+        auto &temp=mp[key];// accessing using reference , it not acccesed using reference it will create a copy of container so more time complexing and give TLE
+       // sort(temp.begin(),temp.end()); not needed bcz timestamp is incresing so already sorted
         int n=temp.size();
         int l=0,h=n-1;
         string ans="";
