@@ -10,26 +10,26 @@ public:
             items[i][1] = max_beauty_so_far; 
         }
         
-        vector<int> ans;
-        ans.reserve(queries.size());
-        
+        vector<int> res;
+        int n=items.size();
         // 3. Process each query using binary search
         for (int q : queries) {
-            // We want the first item with a price GREATER than q, then we step back 1
-            // We use {q, INT_MAX} as our dummy pair target
-            auto it = upper_bound(items.begin(), items.end(), vector<int>{q, INT_MAX});
-            // vector<int>{q, INT_MAX} let you compare only through prices it bypasses all elem:prices <= q
-            if (it == items.begin()) {
-                // All items are more expensive than our query price `q`
-                //query is actually the smallest so no items is<= but upperbound points to first bcz 1st elem> q uery so it will be push back 0
-                ans.push_back(0);
-            } else {
-                // Move back one step to get the item where price <= q
-                it--;
-                ans.push_back((*it)[1]); // Grab its pre-calculated max beauty
+           int low=0,high=n-1,ans=-1;
+           while(low<=high){
+            int mid=low+(high-low)/2;
+            if(items[mid][0]<=q){
+                ans=items[mid][1];
+                low=mid+1;
+
             }
+            else{
+                high=mid-1;
+            }
+           }
+           if(ans==-1) res.push_back(0);
+           else res.push_back(ans);
         }
         
-        return ans;
+        return res;
     }
 };
