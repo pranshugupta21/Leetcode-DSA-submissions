@@ -13,7 +13,7 @@ public:
             int l=q[0],r=q[1];
             int firstbar=lower_bound(baridx.begin(),baridx.end(),l)-baridx.begin(); // it is firstbar idx in baridx not string
             int lastbar=upper_bound(baridx.begin(),baridx.end(),r)-baridx.begin()-1;
-            if( lastbar<=firstbar||(lastbar==baridx.size()))ans.push_back(0);
+            if( lastbar<=firstbar)ans.push_back(0);
             else
               ans.push_back(baridx[lastbar]-baridx[firstbar]-(lastbar-firstbar));
             
