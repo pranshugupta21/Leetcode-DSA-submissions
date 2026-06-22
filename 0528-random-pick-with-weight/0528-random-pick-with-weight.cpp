@@ -10,8 +10,8 @@ public:
     }
     
     int pickIndex() {
-        int random=rand()%wt.back();
-        int idx=upper_bound(wt.begin(),wt.end(),random)-wt.begin();
+        int random=1+rand()%wt.back();
+        int idx=lower_bound(wt.begin(),wt.end(),random)-wt.begin();
         return idx;
         
     }
