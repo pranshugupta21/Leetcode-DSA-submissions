@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Sliding Window
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
