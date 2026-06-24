@@ -11,28 +11,12 @@ public:
          }
          for(auto &q:queries){
             auto it=lower_bound(nums.begin(),nums.end(),q)-nums.begin();
-            long long no_of_left_elements=-1,no_of_right_elements=-1;
-            long long rsum=0,msum=0,lsum=0;
-            if(it>n-1){
-              no_of_right_elements=0;
-              rsum=0;
-              msum=0;
-            }
-            else {
-            no_of_right_elements=n-it-1;
-            rsum=abs((no_of_right_elements*q)-(prefix[n-1]-prefix[it]));
-            msum=(abs(nums[it]-q));
-            }
-            no_of_left_elements=it;
-            if(it==0){
-            lsum=0;
-            }
-            else{
-                lsum=abs((no_of_left_elements*q)-(prefix[it-1]));
-            }
-            
-            long long num=lsum+msum+rsum;
-            ans.push_back(num);
+            long long rsum=0,lsum=0;
+           lsum=(it==0)? 0:prefix[it-1];
+           rsum=prefix[n-1]-lsum;
+           long long lcost=abs((q*it)-lsum);
+           long long rcost=abs(rsum-(q*(n-it)));
+            ans.push_back(lcost+rcost);
          }
 
         return ans;
