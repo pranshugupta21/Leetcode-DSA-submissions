@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1732-find-the-highest-altitude) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Queue
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
