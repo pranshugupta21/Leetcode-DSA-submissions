@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Sliding Window
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Divide and Conquer
 |  |
