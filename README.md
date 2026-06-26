@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
