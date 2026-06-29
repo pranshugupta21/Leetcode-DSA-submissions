@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
