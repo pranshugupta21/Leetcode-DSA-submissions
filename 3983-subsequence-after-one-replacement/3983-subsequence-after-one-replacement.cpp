@@ -1,37 +1,41 @@
 class Solution {
 public:
     bool canMakeSubsequence(string s, string t) {
-   int match0 = 0; // Max characters matched with 0 replacements used
-    int match1 = 0; // Max characters matched with 1 replacement used
-    int s_len = s.length();
-
-    for (char char_t : t) {
-        // Save the previous match0 state before we modify it this turn
-        int prev_match0 = match0;
-
-        // 1. Can we advance our 1-replacement track using a natural match?
-        if (match1 < s_len && char_t == s[match1]) {
-            match1++;
-        }
-
-        // 2. See if we can build upon our 0-replacement track
-        if (prev_match0 < s_len) {
-            // Option A: The character matches naturally, keeping our 0-replacement streak alive
-            if (char_t == s[prev_match0]) {
-                match0 = prev_match0 + 1;
-            }
-
-            // Option B: We burn our 1 replacement right now on s[prev_match0] to match char_t.
-            // This pushes our 1-replacement score up to (prev_match0 + 1).
-            match1 = max(match1, prev_match0 + 1);
-        }
-
-        // Early exit: If either track successfully matched the entirety of s, we're good!
-        if (match0 == s_len || match1 == s_len) {
-            return true;
-        }
+   int n=s.size(),m=t.size();
+   if(n>m) return false;
+   vector<int>prefix(n,m),suffix(n,-1);
+   int t_idx=0;
+   for(int i=0;i<n;i++){
+      while(t_idx<m&&s[i]!=t[t_idx]) {           // Building prefix array
+        t_idx++;
+      }
+      if(t_idx<m){
+        prefix[i]=t_idx;
+        t_idx++;
+      }
+      else{
+        break;// no char in t is found 
+      }
+   }
+   t_idx=m-1;
+   for(int i=n-1;i>=0;i--){
+    while(t_idx>=0&&s[i]!=t[t_idx]){               // Building Suffix array
+       t_idx--;
     }
-
-    return match0 == s_len || match1 == s_len;
+    if(t_idx>=0){
+        suffix[i]=t_idx;
+        t_idx--;
+    }
+    else{
+        break;
+        // suffix breaks no char in t is found while searching from s
+    }
+   }
+   for(int i=0;i<n;i++){
+    int l=(i==0)? -1:prefix[i-1];
+    int r=(i==n-1)? m:suffix[i+1];
+    if(r-l>1) return true;
+   }
+   return false;
 }
 };
