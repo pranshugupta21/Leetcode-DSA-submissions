@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
