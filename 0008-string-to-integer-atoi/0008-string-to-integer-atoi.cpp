@@ -9,7 +9,6 @@ public:
               if (s[i] == '-') sign = -1;   
                i++;
            }
-        string ans="";
         while(i<n && s[i]=='0') i++;
         long long res=0;
         while(i<n){
