@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -275,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
