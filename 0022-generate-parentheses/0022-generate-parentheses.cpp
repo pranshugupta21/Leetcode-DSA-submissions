@@ -6,10 +6,14 @@ public:
             return;
         }
         if(op<n){
-            generate(n,op+1,cl,res,curr+'(');
+            curr.push_back('(');
+            generate(n,op+1,cl,res,curr);
+            curr.pop_back();
         }
         if(cl<op){
-           generate(n,op,cl+1,res,curr+')');
+             curr.push_back(')');
+           generate(n,op,cl+1,res,curr);
+           curr.pop_back();
         }
         
 
