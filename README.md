@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1922-count-good-numbers) |
 ## Greedy
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
