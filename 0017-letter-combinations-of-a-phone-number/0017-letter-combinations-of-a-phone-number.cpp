@@ -25,7 +25,7 @@ public:
         }
         for(auto ch: mp[digits[i]]){
             temp.push_back(ch);
-            recursion(ans,digits,i+1,temp);
+            recursion(ans,digits,i+1,temp);     // TC: (4^N*N)
             temp.pop_back();
         }
     }
