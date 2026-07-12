@@ -5,30 +5,12 @@ public:
             ans.push_back(s);
             return;
         }
-          if(isdigit(s[i])){
+        rec(ans,s,i+1);
+          if(isalpha(s[i])){
+            s[i]^=32;
             rec(ans,s,i+1);
+            s[i]^=32;   //  Backtracking
           }
-          else{ 
-
-          rec(ans,s,i+1);
-          // keep current state
-           if(islower(s[i])){
-            s[i]=toupper(s[i]);
-          } 
-          else{
-            s[i]=tolower(s[i]);
-          }
-           
-           rec(ans,s,i+1);
-           // backtrack
-            if(islower(s[i])){
-            s[i]=toupper(s[i]);
-          } 
-          else{
-            s[i]=tolower(s[i]);
-          }
-          
-        }
     }
     vector<string> letterCasePermutation(string s) {
         vector<string>ans;
