@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
