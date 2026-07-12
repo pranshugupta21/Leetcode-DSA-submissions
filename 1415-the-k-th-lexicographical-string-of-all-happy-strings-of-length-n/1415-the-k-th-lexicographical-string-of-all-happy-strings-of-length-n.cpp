@@ -18,7 +18,6 @@ public:
         vector<string>ans;
         string temp="";
         rec(ans,n,temp);
-        sort(ans.begin(),ans.end());
         return ans[k-1];
     }
 };
