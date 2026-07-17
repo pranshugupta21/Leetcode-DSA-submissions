@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Recursion
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Binary Tree
 |  |
 | ------- |
