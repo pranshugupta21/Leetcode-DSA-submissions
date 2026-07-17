@@ -1,14 +1,8 @@
 class Solution {
 public:
-    int calscore(vector<vector<int>>& students,vector<vector<int>>& mentors,int sindex,int mindex){
-        int score=0;
-         for(int i=0;i<students[sindex].size();i++){
-            if(students[sindex][i]==mentors[mindex][i]) score++;
-         }
-         return score;
-    }
-    void solve(vector<vector<int>>& students, vector<vector<int>>& mentors,vector<bool>&visitedmentors,int index,int score,int  &total_score){
-        int n=students.size();
+    int total_score=0;
+    void solve(vector<vector<int>>&matrixscore,vector<bool>&visitedmentors,int index,int score){
+        int n=matrixscore.size();
         if(index>=n){
             total_score=max(total_score,score);
             return;
@@ -16,8 +10,7 @@ public:
         for(int i=0;i<n;i++){
             if(visitedmentors[i]==false){
                 visitedmentors[i]=true;
-             int curr_score=calscore(students,mentors,index,i);
-             solve(students,mentors,visitedmentors,index+1,score+curr_score,total_score);
+             solve(matrixscore,visitedmentors,index+1,score+matrixscore[index][i]);
              visitedmentors[i]=false;
             }
         }
@@ -25,11 +18,21 @@ public:
     }
     int maxCompatibilitySum(vector<vector<int>>& students, vector<vector<int>>& mentors) {
         int index=0;
-        int score=0;
-        int total_score=0;
-        int n=students.size();
+        int m=students.size();
+        int n=students[0].size();
         vector<bool>visitedmentors(n,false);
-        solve(students,mentors,visitedmentors,index,score,total_score);
+        vector<vector<int>>matrixscore(m,vector<int>(m,0));
+        for(int i=0;i<m;i++){
+            for(int j=0;j<m;j++){
+                int score=0;
+                for(int k=0;k<n;k++){                   // precompute all the possible combinations score
+                    if(students[i][k]==mentors[j][k]) score++;
+                }
+                matrixscore[i][j]=score;
+            }
+        }
+        int score=0;
+        solve(matrixscore,visitedmentors,index,score);
         return total_score;
     }
     
