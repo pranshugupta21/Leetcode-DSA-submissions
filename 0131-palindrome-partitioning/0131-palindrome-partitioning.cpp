@@ -18,7 +18,7 @@ public:
        string temp=s.substr(index,i-index+1);
         if(ispalindrome(temp)){
           curr.push_back(temp);
-        recur(ans,curr,s,i+1,n);
+        recur(ans,curr,s,i+1,n);  // goes to next charcter where palindrome partioning ended
         curr.pop_back();
         }
       }
