@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
