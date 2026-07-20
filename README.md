@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Math
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Binary Indexed Tree
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
+| [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 ## Number Theory
 |  |
