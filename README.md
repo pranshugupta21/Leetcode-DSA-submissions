@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
