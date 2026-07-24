@@ -17,7 +17,7 @@ public:
                 currzerolen++;
                 i++;
                }
-               if(prevzerolen>0){
+               if(prevzerolen>0){    // if the string starts with 0 the prv zeros block is 0
                 zeroslen=max(zeroslen,prevzerolen+currzerolen);
                }
                prevzerolen=currzerolen;
