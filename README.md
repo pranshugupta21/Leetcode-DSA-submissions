@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
