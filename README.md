@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
