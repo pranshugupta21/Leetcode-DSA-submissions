@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
