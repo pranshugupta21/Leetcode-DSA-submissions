@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0967-numbers-with-same-consecutive-differences) |
