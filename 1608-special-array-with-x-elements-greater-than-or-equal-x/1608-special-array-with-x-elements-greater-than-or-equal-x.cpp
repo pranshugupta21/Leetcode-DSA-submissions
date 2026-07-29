@@ -6,7 +6,7 @@ public:
         for(int i=1;i<=n;i++){
             int idx=lower_bound(nums.begin(),nums.end(),i)-nums.begin();
             int cnt=n-idx;
-            if(cnt==i) return i;
+            if(cnt==i) return i;   //exactly i numbers should be greater than or equal to i
         }
         return -1;
     }
