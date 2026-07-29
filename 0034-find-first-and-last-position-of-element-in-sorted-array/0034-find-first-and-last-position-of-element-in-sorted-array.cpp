@@ -1,42 +1,40 @@
 class Solution {
-    int firstidx(vector<int>&nums,int target){
+    int lowerBound(vector<int>&nums,int target){
         int n=nums.size();
-        int first=-1;
+        int ans=n;
         int low=0,high=n-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                first=mid;
+            if(nums[mid]>=target){
+                ans=mid;
                 high=mid-1;
             }
-            else if(nums[mid]<target){
+            else{
                 low=mid+1;
             }
-            else high=mid-1;
         }
-        return first;
+        return low;
     }
-        int lastidx(vector<int>&nums,int target){
+        int UpperBound(vector<int>&nums,int target){
         int n=nums.size();
-        int last=-1;
+        int ans=n;
         int low=0,high=n-1;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(nums[mid]==target){
-                last=mid;
+            if(nums[mid]>target){
+                ans=mid;
+                high=mid-1;
+            }
+            else{
                 low=mid+1;
             }
-            else if(nums[mid]<target){
-                low=mid+1;
-            }
-            else high=mid-1;
         }
-        return last;
-    }
+        return high;
+    }   
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-       int first_idx=firstidx(nums,target);
-       if(first_idx==-1)return{-1,-1};
-       return{first_idx,lastidx(nums,target)};
+       int ans=lowerBound(nums,target);
+       if(ans==nums.size()||nums[ans]!=target)return{-1,-1};
+       return{ans,UpperBound(nums,target)};
     }
 };
