@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1732-find-the-highest-altitude) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
+| [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
+| [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
