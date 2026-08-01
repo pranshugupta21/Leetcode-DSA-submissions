@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
+| [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 ## Design
 |  |
 | ------- |
