@@ -4,22 +4,16 @@ public:
         int m=grid.size();
         int n=grid[0].size();
         int count=0;
-        for(int r=0;r<m;r++){
-            int c=getneg(grid,r,n);
-            count+=(n-c);
+        int r=0,c=n-1;
+        while(r<m && c>=0){           // staircase method stand at top row rightmost column
+            if(grid[r][c]<0){
+                count+=(m-r);
+                c--;
+            }
+            else{
+                r++;
+            }
         }
         return count;
-    }
-    private:
-    int getneg(vector<vector<int>>&grid,int row,int col){
-        int low=0,high=col-1;
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(grid[row][mid]>=0){
-                low=mid+1;
-            }
-            else high=mid-1;
-        }
-        return low;
     }
 };
