@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
 | [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Breadth-First Search
 |  |
