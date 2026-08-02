@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Breadth-First Search
