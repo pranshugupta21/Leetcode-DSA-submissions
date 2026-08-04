@@ -13,10 +13,10 @@ public:
         }
         long long req=0;
         for(int i=n-1;i>=0;i--){
-            if(req>0){
+            if(req>0){               //our future monster is strong so we need to carry some strength moving forward
                 req+=monsters[i];
             }
-            else{
+            else{              // req==0 means at end we just need to survive this fight
               req=max(0LL,monsters[i]-bonus[i]);
             }
         }
