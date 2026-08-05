@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0826-most-profit-assigning-work) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
