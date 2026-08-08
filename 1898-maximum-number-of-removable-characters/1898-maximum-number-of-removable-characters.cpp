@@ -15,7 +15,7 @@ public:
         }
         return ans;
     }
-     bool issubseq(string s,string p,vector<int>&removable,int k){
+     bool issubseq(string &s,string &p,vector<int>&removable,int k){
         vector<bool>removed(s.size(),false);
         for(int i=0;i<k;i++){                     // subsequence check
             removed[removable[i]]=true;
