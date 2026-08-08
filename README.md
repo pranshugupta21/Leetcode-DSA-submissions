@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1898-maximum-number-of-removable-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0826-most-profit-assigning-work](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0826-most-profit-assigning-work) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1898-maximum-number-of-removable-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 ## String
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1898-maximum-number-of-removable-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
