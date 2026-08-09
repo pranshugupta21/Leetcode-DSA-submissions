@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Sliding Window
 |  |
 | ------- |
