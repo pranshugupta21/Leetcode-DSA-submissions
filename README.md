@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Binary Search
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
