@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -477,10 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Combinatorics
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Monotonic Stack
 |  |
@@ -499,4 +503,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
