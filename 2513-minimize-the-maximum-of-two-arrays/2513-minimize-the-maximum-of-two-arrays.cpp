@@ -8,7 +8,7 @@ public:
             long long mid=low+(high-low)/2;
              long long cnt1=mid-(mid/div1);
              long long cnt2=mid-(mid/div2);
-             long long bothcnt=mid-(mid/std::lcm(div1,div2));// divisible by both so shouldn't be in either array
+             long long bothcnt=mid-(mid/std::lcm(div1,div2));// Total numbers that are NOT divisible by both simultaneously entire pool   >= total pool of disjoints numbers(uniquecnt1+uniquecnt2)
              if(cnt1>=uniqueCnt1 && cnt2>=uniqueCnt2 && bothcnt>=(long long)(uniqueCnt1+uniqueCnt2)){
                 ans=mid;
                 high=mid-1;
