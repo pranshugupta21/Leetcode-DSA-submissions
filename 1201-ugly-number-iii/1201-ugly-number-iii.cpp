@@ -17,6 +17,7 @@ public:
     }
     int countdivisiblenumbers(long long a,long long b,long long c, long long num){
     return num/a + num/b + num/c - num/lcm(a,b) - num/lcm(b,c) - num/lcm(c,a) + num/lcm(a,lcm(b,c));
+    // total numbers till num that are divisible by either a b or c
     }
     long long gcd(long long a,long long b){
         if(a==0) return b;
