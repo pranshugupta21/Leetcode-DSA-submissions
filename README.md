@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
