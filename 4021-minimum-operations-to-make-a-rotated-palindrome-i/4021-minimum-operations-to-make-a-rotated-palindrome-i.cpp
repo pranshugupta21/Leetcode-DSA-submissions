@@ -4,7 +4,7 @@ public:
         int n=s.size();
         
         int minops=1e9;
-        for(int k=0;k<n;k++){     // rorate each time till n
+        for(int k=0;k<n;k++){     // rotate left position each time from 0 to n
             int i=0,j=n-1;
             int ops=k;            // initial cost of rotation 
             while(i<j){
