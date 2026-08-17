@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3048-earliest-second-to-mark-indices-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Indexed Tree
 |  |
 | ------- |
