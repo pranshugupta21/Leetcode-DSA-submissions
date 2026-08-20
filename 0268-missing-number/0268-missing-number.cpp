@@ -2,21 +2,14 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        int i,j;
-        int flag;
+        int i,xor1=0,xor2=0;
         for(i=0;i<n;i++)
-        {   flag=0;
-          for(j=0;j<n;j++)
-          {
-            if(nums[j]==i)
-            {
-                flag=1;
-                break;
-            }
-          }
-          if(flag==0)
-          return i;
+        {
+            xor2=xor2^nums[i];
+            xor1=xor1^i;
         }
-           return n; 
+        xor1=xor1^n;
+        return xor1^xor2;
+        
     }
 };
