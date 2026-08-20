@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
