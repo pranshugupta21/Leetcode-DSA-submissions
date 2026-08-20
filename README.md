@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3048-earliest-second-to-mark-indices-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
