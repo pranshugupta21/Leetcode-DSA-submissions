@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0475-heaters) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
