@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
