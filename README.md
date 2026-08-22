@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
