@@ -568,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1201-ugly-number-iii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1201-ugly-number-iii) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
