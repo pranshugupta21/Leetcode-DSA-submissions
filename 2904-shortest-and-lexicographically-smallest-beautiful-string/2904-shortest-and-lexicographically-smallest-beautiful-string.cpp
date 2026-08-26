@@ -7,18 +7,15 @@ public:
         string str="";
         while(i<n){
             if(s[i]=='1') c++;
-            if(c==k){
+            while(c==k){
              string s1=s.substr(j,i-j+1);
              if(s1.size()<str.size()||str==""||(s1.size()==str.size()&&s1<str)){
                 str=s1;
              }
-            }
-        while(c==k){
             if(s[j]=='1') c--;
             j++;
-        }
-        while(j<n && s[j]=='0')j++;
-        i++;
+            }
+            i++;
         }
         return str;
     }
