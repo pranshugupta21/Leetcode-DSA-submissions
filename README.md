@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
