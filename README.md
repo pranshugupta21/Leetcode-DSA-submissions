@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
