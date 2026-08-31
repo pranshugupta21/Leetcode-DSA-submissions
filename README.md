@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0136-single-number) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0287-find-the-duplicate-number) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
