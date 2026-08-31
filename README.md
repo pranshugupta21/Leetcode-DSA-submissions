@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0491-non-decreasing-subsequences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0491-non-decreasing-subsequences) |
+| [0525-contiguous-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1189-maximum-number-of-balloons) |
