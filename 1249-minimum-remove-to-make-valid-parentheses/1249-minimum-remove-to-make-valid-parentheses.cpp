@@ -1,39 +1,28 @@
 class Solution {
 public:
     string minRemoveToMakeValid(string s) {
-        string temp="";
-        int balance=0;
-        for(char ch:s){
-          if(ch=='('){
-            balance++;
-            temp+=ch;
-          }
-          else if(ch==')'){
-            if(balance>0) {
-                temp+=ch;
-                balance--;
+       stack<int>st;// store indices of'('
+       //mark invalid indices as '*'
+       for(int i=0;i<s.size();i++){
+        if(s[i]=='('){
+            st.push(i);
+        }
+        else if(s[i]==')'){
+            if(!st.empty()) st.pop();
+            else{
+                // stack is empty excess ')'
+                s[i]='*';
             }
-            // skip ')' invalid
-          }
-          else temp+=ch;
         }
-       string res="";
-       balance=0;
-       for(int i=temp.size()-1;i>=0;i--){
-        if(temp[i]==')'){
-            balance++;
-            res+=temp[i];
-        }
-        else if(temp[i]=='('){
-            if(balance>0){
-                res+=temp[i];
-                balance--;
-            }
-            // skip '(' extra
-        }
-        else res+=temp[i];
        }
-       reverse(res.begin(),res.end());
+       while(!st.empty()){
+        s[st.top()]='*';   // if stack is not empty extra '('
+        st.pop();
+       }
+       string res="";
+       for(char ch:s){
+        if(ch!='*')res+=ch;
+       }
        return res;
     }
 };
