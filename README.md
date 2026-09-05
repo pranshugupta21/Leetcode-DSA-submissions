@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0409-longest-palindrome) |
 | [0784-letter-case-permutation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0784-letter-case-permutation) |
+| [0856-score-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1021-remove-outermost-parentheses) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0020-valid-parentheses) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
