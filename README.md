@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0162-find-peak-element) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0856-score-of-parentheses) |
