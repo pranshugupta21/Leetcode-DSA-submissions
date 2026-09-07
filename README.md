@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2055-plates-between-candles](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2055-plates-between-candles) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 ## Trie
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Recursion
 |  |
