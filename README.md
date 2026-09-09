@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2594-minimum-time-to-repair-cars) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1648-sell-diminishing-valued-colored-balls) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2398-maximum-number-of-robots-within-budget) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 ## Ordered Set
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 ## Tree
 |  |
 | ------- |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 ## Enumeration
 |  |
 | ------- |
