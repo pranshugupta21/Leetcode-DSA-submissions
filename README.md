@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1052-grumpy-bookstore-owner) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1695-maximum-erasure-value) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
