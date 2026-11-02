@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 ## Enumeration
 |  |
