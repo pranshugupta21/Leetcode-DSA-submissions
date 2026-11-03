@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0056-merge-intervals) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0283-move-zeroes) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
@@ -605,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
