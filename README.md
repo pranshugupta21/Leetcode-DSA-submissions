@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
