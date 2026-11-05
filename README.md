@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0981-time-based-key-value-store) |
 | [2080-range-frequency-queries](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2080-range-frequency-queries) |
 ## Randomized
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
