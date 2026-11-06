@@ -1,29 +1,22 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        int freq[27] = {0};
-        bitset<27> seen;
+        int seen[27]={0};
+        bool instack[27]={false};
         string stack;
-
-        for (auto& c : s)
-            freq[c & 31]++;
-
-        for (auto& c : s) {
-            int x = c & 31;
-            freq[x]--;
-
-            if (seen.test(x))
-                continue;
-
-            while (stack.length() && stack.back() > c && freq[stack.back() & 31]) {
-                seen.reset(stack.back() & 31);
-                stack.pop_back();
-            }
-
-            stack.push_back(c);
-            seen.set(x);
+        for(char ch:s){
+            seen[ch-'a']++;
         }
-
+        for(char ch:s){
+            seen[ch-'a']--;
+            if(instack[ch-'a'])continue;  // if the character is already in stack donot process
+           while(stack.length() && seen[stack.back()-'a']>0 && ch<stack.back()){
+            instack[stack.back()-'a']=false;
+            stack.pop_back();
+           }
+            instack[ch-'a']=true;
+           stack.push_back(ch);
+        }
         return stack;
     }
 };
