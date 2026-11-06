@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0486-predict-the-winner) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1818-minimum-absolute-sum-difference](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1818-minimum-absolute-sum-difference) |
 | [2817-minimum-absolute-difference-between-elements-with-constraint](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2817-minimum-absolute-difference-between-elements-with-constraint) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0085-maximal-rectangle) |
+| [0456-132-pattern](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0739-daily-temperatures) |
