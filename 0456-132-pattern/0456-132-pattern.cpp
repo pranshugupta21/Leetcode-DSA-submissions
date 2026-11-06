@@ -11,7 +11,7 @@ public:
                 third=st.top();                 // nums[k].  Stack keep track of two numbers nums[k] < nums[j]
                 st.pop();
             }
-            st.push(nums[i]);
+            st.push(nums[i]);  // in stack we keep nums[j] biigest number in increasing monotonic order
         }
         return false;
 
