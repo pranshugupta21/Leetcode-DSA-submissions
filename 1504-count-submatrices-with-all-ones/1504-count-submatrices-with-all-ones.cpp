@@ -13,7 +13,7 @@ public:
             stack<vector<int>>st;
             st.push({-1,-1,0});// height,previous_index,count
             for(int j=0;j<n;j++){
-                while(!st.empty() && st.top()[0]>=histogram[j]){
+                while( st.top()[0]>=histogram[j]){
                     st.pop();
                 }
                 int curr_count=histogram[j]*(j-st.top()[1])+st.top()[2];// any submatrix at bottom corner i,j is equal height*gap + previous_count of index smaller than i,j 
