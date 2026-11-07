@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1539-kth-missing-positive-number](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1648-sell-diminishing-valued-colored-balls](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1648-sell-diminishing-valued-colored-balls) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0526-beautiful-arrangement) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1947-maximum-compatibility-score-sum](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1947-maximum-compatibility-score-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Math
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1504-count-submatrices-with-all-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1901-find-a-peak-element-ii](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Breadth-First Search
 |  |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1504-count-submatrices-with-all-ones](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/1504-count-submatrices-with-all-ones) |
 | [2104-sum-of-subarray-ranges](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2104-sum-of-subarray-ranges) |
 | [2454-next-greater-element-iv](https://github.com/pranshugupta21/Leetcode-DSA-submissions/tree/master/2454-next-greater-element-iv) |
 ## Enumeration
